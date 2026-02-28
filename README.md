@@ -1,4 +1,6 @@
-<img width="1280" height="640" alt="awesomeaiaudio" src="https://github.com/user-attachments/assets/d398e030-a66e-4da2-bb78-55d6b3c12555" />
+<p align="center">
+  <img src="assets/waveform.svg" alt="AI Audio Tools" />
+</p>
 
 <div align="center">
 
@@ -8,7 +10,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/awesome-ai-audio/pulls)
 ![Tools](https://img.shields.io/badge/tools%20listed-100%2B-blueviolet?style=flat)
 
-*The go-to community list for AI audio, music, speech, and sound tools.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=The+go-to+list+for+AI+audio+tools.;100%2B+tools+across+16+categories.;Open+to+contributions.)](https://git.io/typing-svg)
 
 </div>
 
@@ -242,6 +244,9 @@
 ## Tools & SDKs
 
 - [Quilio](https://www.quilio.dev/) - We maintain tools to help developers build real-time audio AI applications with ease.
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=theelderemo/ai-audio-tools&type=Date)](https://star-history.com/#theelderemo/ai-audio-tools)
 
 ---
 
