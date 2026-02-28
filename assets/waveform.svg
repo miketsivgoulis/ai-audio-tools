@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bgGrad)" rx="16"/>
+
+  <text x="50%" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="72" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="6">
+    AWESOME AI AUDIO
+  </text>
+  <text x="50%" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#94a3b8" text-anchor="middle" letter-spacing="3">
+    THE GO-TO LIST FOR AI AUDIO TOOLS
+  </text>
+
+  <g fill="url(#waveGrad)">
+    <rect x="286" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 80; 24" dur="2s" begin="-1.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 380; 408" dur="2s" begin="-1.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="324" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 120; 24" dur="2s" begin="-1.7s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 360; 408" dur="2s" begin="-1.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="362" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 180; 24" dur="2s" begin="-1.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 330; 408" dur="2s" begin="-1.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="400" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 240; 24" dur="2s" begin="-1.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 300; 408" dur="2s" begin="-1.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="438" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 300; 24" dur="2s" begin="-1.4s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 270; 408" dur="2s" begin="-1.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="476" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 360; 24" dur="2s" begin="-1.3s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 240; 408" dur="2s" begin="-1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="514" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 420; 24" dur="2s" begin="-1.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 210; 408" dur="2s" begin="-1.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="552" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 460; 24" dur="2s" begin="-1.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 190; 408" dur="2s" begin="-1.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="590" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 480; 24" dur="2s" begin="-1.0s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 180; 408" dur="2s" begin="-1.0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="628" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 500; 24" dur="2s" begin="-0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 170; 408" dur="2s" begin="-0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="666" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 480; 24" dur="2s" begin="-0.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 180; 408" dur="2s" begin="-0.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="704" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 460; 24" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 190; 408" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="742" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 420; 24" dur="2s" begin="-0.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 210; 408" dur="2s" begin="-0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="780" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 360; 24" dur="2s" begin="-0.5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 240; 408" dur="2s" begin="-0.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="818" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 300; 24" dur="2s" begin="-0.4s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 270; 408" dur="2s" begin="-0.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="856" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 240; 24" dur="2s" begin="-0.3s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 300; 408" dur="2s" begin="-0.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="894" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 180; 24" dur="2s" begin="-0.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 330; 408" dur="2s" begin="-0.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="932" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 120; 24" dur="2s" begin="-0.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 360; 408" dur="2s" begin="-0.1s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="970" y="408" width="24" height="24" rx="12">
+      <animate attributeName="height" values="24; 80; 24" dur="2s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="408; 380; 408" dur="2s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
