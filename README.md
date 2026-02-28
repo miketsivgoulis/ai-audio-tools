@@ -93,6 +93,8 @@
 - [Tunee](https://tunee.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music and lyric generation platform with access to multiple underlying generative models for varied output styles.
 - [LOVO](https://lovo.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Advanced text-to-speech and voice cloning platform for content creators, supporting emotional range control and voice actor-style production.
 
+[↑ Back to top](#quick-navigation)
+
 <br>
 
 ## Lyric Writing & Songwriting
@@ -100,11 +102,15 @@
 - [VRS/A](https://vrsa.app) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered lyric writing and music production workstation with multi-model Ghostwriter, Suno integration via browser extension, audio analysis, album art generation, and VRSA Studio.
 - [Lyric Studio](https://www.lyricstudio.co/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Mobile-first AI songwriting ecosystem with a lyric editor, AI-generated verse/chorus drafts, rhyme suggestions, and song organization tools.
 
+[↑ Back to top](#quick-navigation)
+
 ## AI Voice & Cover Generation
 
 - [Jammable](https://www.jammable.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - (formerly Voicify AI) AI song cover generator with 22,000+ community-uploaded voice models and custom voice cloning from 10 minutes of audio.
 - [Musicfy](https://musicfy.lol) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI voice covers and voice cloning platform with text-to-music generation, voice-to-instrument conversion, and a large copyright-free vocal library.
 - [Lalals](https://lalals.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI voice swapping tool suite with 1,000+ voice options, stem splitting, and real-time conversion for remixes and vocal experimentation.
+
+[↑ Back to top](#quick-navigation)
 
 ## Source Separation
 
@@ -124,10 +130,14 @@
 - [MuzLab](https://muzlab.co/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Remove vocals from songs and split drums, bass and other instruments out of music.
 - [Fadr](https://fadr.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Remove stems, convert to MIDI, and create high-quality remixes and mashups using AI tools.
 
+[↑ Back to top](#quick-navigation)
+
 ## Mastering, Mixing & Production Analysis
 
 - [SoundBoost AI](https://soundboostai.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI music mastering platform with goal-based controls — specify targets like loudness, warmth, or punch and the engine applies processing automatically.
 - [VerifAI Audio](https://verifai.audio/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Instant AI-driven feedback on track quality covering mixdown balance, loudness levels, bitrate, and other release-readiness metrics.
+
+[↑ Back to top](#quick-navigation)
 
 ## Plugins & Sample Tools
 
@@ -135,6 +145,8 @@
 - [Slooply](https://slooply.com/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - AI-powered sample discovery platform with similarity search, mood/key/BPM filtering, MIDI export, and direct drag-and-drop DAW integration.
 - [Atlas](https://atlasaudio.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - AI sample library organizer with auto-tagging, similar-sound search, and a smart drum map interface for large sample collections.
 - [Playbeat](https://www.audiomodern.com/app/playbeat/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![vst](https://img.shields.io/badge/VST-1a3d3d?style=flat-square) - AI generative groove sequencer for instant beat creation with MIDI export and real-time DAW sync.
+
+[↑ Back to top](#quick-navigation)
 
 ## Analysis & Recommendation
 
@@ -153,6 +165,8 @@
 - [hoopr](https://www.hoopr.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Find the best music, tell better stories, grow your audience.
 - [Pex](https://www.pex.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Music identification and copyright compliance. Audio fingerprinting, cover song identification in large scale.
 
+[↑ Back to top](#quick-navigation)
+
 ## Health & Wellbeing
 
 - [Endel](https://endel.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Personalized soundscapes to help you focus, relax, and sleep.
@@ -165,6 +179,8 @@
 - [sona](https://sona.care/) - Music as medicine. Research-based music for anxiety made by Grammy-winning producers.
 - [Novoic](https://novoic.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Using speech to detect neurological diseases.
 - [Ubenwa](https://www.ubenwa.ai) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Infant health analysis based on cry signals.
+
+[↑ Back to top](#quick-navigation)
   
 # Radio / Podcast
 
@@ -178,11 +194,15 @@
 - [cleanvoice](https://cleanvoice.ai/) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Removes filler sounds, stuttering and mouth sounds from your podcast or audio recording.
 - [Super Hi-Fi](https://www.superhifi.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - Artificial Intelligence Powered Music Experiences.
 
+[↑ Back to top](#quick-navigation)
+
 # Hearing
 
 - [Whisper.ai](https://whisper.ai) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - Smarter than your average hearing aid.
 - [Eargo](https://www.eargo.com) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - A Revolutionary New Hearing Aid.
 - [Concha Labs](https://conchalabs.com/) ![hardware](https://img.shields.io/badge/hardware-2e2e2e?style=flat-square) - Helping you hear more clearly.
+
+[↑ Back to top](#quick-navigation)
 
 # Sound detection
 
@@ -198,6 +218,8 @@
 - [Securaxis](https://www.securaxis.com/) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) - We turn sounds into information.
 - [Deeply](https://deeplyinc.com) ![enterprise](https://img.shields.io/badge/enterprise-2a1a55?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - We add meaning to every sound in the world using advanced deep learning technology for sound event detection and context recognition.
 - [Reef Pulse](https://reef-pulse.com) - Coral reef monitoring using bioacoustics and AI: sound event detection (boats, divers, waves, marine mammals, fishes, invertebrates) for impactful management of marine ecosystems.
+
+[↑ Back to top](#quick-navigation)
 
 # Speech
 
@@ -220,6 +242,8 @@
 - [BoldVoice](https://www.boldvoice.com/) ![paid](https://img.shields.io/badge/paid-5c1a1a?style=flat-square) - Speak English clearly and confidently.
 - [Gladia](https://www.gladia.io) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) ![api](https://img.shields.io/badge/API-0d2b45?style=flat-square) - Power your product with cutting-edge AI transcription, translation and audio intelligence using a single API.
 - [Podsqueeze](https://podsqueeze.com) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Re-purpose your audio or video podcast into transcript, show notes, blog post, video clips and other assets to publish and promote your show.
+
+[↑ Back to top](#quick-navigation)
 
 ## Synthesis (TTS)
 
@@ -247,6 +271,7 @@
 - [Revocalize.ai](https://www.revocalize.ai) ![freemium](https://img.shields.io/badge/freemium-4a3500?style=flat-square) - Generate studio-quality AI Voices and train AI voice models from the web dashboard or the VST plugin.
 - [morpheme.ai](https://www.morpheme.ai) - Actor-First, Digital-Double Voices powered by the latest AI technology, ensuring they are efficient, authentic, and ethical.
 
+[↑ Back to top](#quick-navigation)
 
 ## Enhancement & Manipulation
 
@@ -277,3 +302,7 @@
 # Contributing
 
 Fork the repo, edit the README, and open a PR.
+
+[![Contributors](https://contrib.rocks/image?repo=theelderemo/ai-audio-tools)](https://github.com/theelderemo/ai-audio-tools/graphs/contributors)
+
+[↑ Back to top](#quick-navigation)
