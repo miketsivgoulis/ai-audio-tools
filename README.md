@@ -1,6 +1,6 @@
-<div align="center">
+<img width="1280" height="640" alt="awesomeaiaudio" src="https://github.com/user-attachments/assets/d398e030-a66e-4da2-bb78-55d6b3c12555" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=🎵%20Awesome%20AI%20Audio&fontSize=55&fontColor=fff&animation=fadeIn&desc=Community%20directory%20of%20AI-powered%20audio%2C%20music%20%26%20sound%20tools&descSize=17&descAlignY=75" />
+<div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/theelderemo/awesome-ai-audio?style=flat&logo=github&color=gold&label=Stars)](https://github.com/theelderemo/awesome-ai-audio/stargazers)
