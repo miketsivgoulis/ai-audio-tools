@@ -1,4 +1,4 @@
-# Awesome AI Audio
+# AI Audio and Music Tools
 Community list of AI audio, music, and other audio specific ai tools.
 ---
 
