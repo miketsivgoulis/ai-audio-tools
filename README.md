@@ -1,8 +1,40 @@
-# AI Audio and Music Tools
-Community list of AI audio, music, and other audio specific ai tools.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=🎵%20Awesome%20AI%20Audio&fontSize=55&fontColor=fff&animation=fadeIn&desc=Community%20directory%20of%20AI-powered%20audio%2C%20music%20%26%20sound%20tools&descSize=17&descAlignY=75" />
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/theelderemo/awesome-ai-audio?style=flat&logo=github&color=gold&label=Stars)](https://github.com/theelderemo/awesome-ai-audio/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/theelderemo/awesome-ai-audio?style=flat&color=blue)](https://github.com/theelderemo/awesome-ai-audio/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/theelderemo/awesome-ai-audio/pulls)
+![Tools](https://img.shields.io/badge/tools%20listed-100%2B-blueviolet?style=flat)
+
+*The go-to community list for AI audio, music, speech, and sound tools.*
+
+</div>
+
 ---
 
-# Music
+## Table of Contents
+
+- [Music](#-music)
+- [Creation & Production](#-creation--production)
+- [Lyric Writing](#️-lyric-writing--songwriting)
+- [Voice Covers](#-ai-voice--cover-generation)
+- [Source Separation](#️-source-separation)
+- [Mastering & Mixing](#️-mastering-mixing--production-analysis)
+- [Plugins](#-plugins--sample-tools)
+- [Analysis](#-analysis--recommendation)
+- [Health & Wellbeing](#-health--wellbeing)
+- [Radio / Podcast](#-radio--podcast)
+- [Hearing](#-hearing)
+- [Sound Detection](#-sound-detection)
+- [Speech](#️-speech)
+- [Transcription](#-transcription)
+- [Synthesis (TTS)](#-synthesis-tts)
+- [Enhancement](#-enhancement--manipulation)
+- [Development](#-development) 
+
+---
 
 ## Creation & Production
 
