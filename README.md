@@ -12,29 +12,14 @@
 
 </div>
 
----
+## Quick Navigation
 
-## Table of Contents
-
-- [Music](#-music)
-- [Creation & Production](#-creation--production)
-- [Lyric Writing](#️-lyric-writing--songwriting)
-- [Voice Covers](#-ai-voice--cover-generation)
-- [Source Separation](#️-source-separation)
-- [Mastering & Mixing](#️-mastering-mixing--production-analysis)
-- [Plugins](#-plugins--sample-tools)
-- [Analysis](#-analysis--recommendation)
-- [Health & Wellbeing](#-health--wellbeing)
-- [Radio / Podcast](#-radio--podcast)
-- [Hearing](#-hearing)
-- [Sound Detection](#-sound-detection)
-- [Speech](#️-speech)
-- [Transcription](#-transcription)
-- [Synthesis (TTS)](#-synthesis-tts)
-- [Enhancement](#-enhancement--manipulation)
-- [Development](#-development) 
-
----
+| | | | |
+|---|---|---|---|
+| [Creation & Production](#creation--production) | [Lyric Writing](#lyric-writing--songwriting) | [Voice Covers](#ai-voice--cover-generation) | [Separation](#source-separation) |
+| [Mastering](#mastering-mixing--production-analysis) | [Plugins](#plugins--sample-tools) | [Analysis](#analysis--recommendation) | [Health](#health--wellbeing) |
+| [Podcast](#radio--podcast) | [Hearing](#hearing) | [Detection](#sound-detection) | [Speech](#speech) |
+| [Transcription](#transcription) | [TTS](#synthesis-tts) | [Enhancement](#enhancement--manipulation) | [Development](#development) |
 
 ## Creation & Production
 
